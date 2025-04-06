@@ -54,14 +54,6 @@ Este projeto segue diversos princípios de design:
   - Encapsulamento de comportamentos
   - Lei de Demeter (princípio do menor conhecimento)
 
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para:
-- Implementar novos padrões de design
-- Melhorar implementações existentes
-- Adicionar testes
-- Melhorar a documentação
-
 ## Licença
 
 Este projeto está licenciado sob [CC0 1.0 Universal](LICENSE) - veja o arquivo LICENSE para detalhes. 
