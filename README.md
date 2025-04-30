@@ -24,6 +24,7 @@ Padrões que lidam com comunicação entre objetos:
 
 - [Strategy (Estratégia)](behavioral_patterns/strategy): Define uma família de algoritmos encapsulados e intercambiáveis.
 - [Observer (Observador)](behavioral_patterns/observer): Define uma dependência um-para-muitos entre objetos.
+- [Chain of Responsibility (Cadeia de Responsabilidade)](behavioral_patterns/chain_of_responsability): Passa uma solicitação ao longo de uma cadeia de handlers.
 
 ## Como Executar os Exemplos
 
